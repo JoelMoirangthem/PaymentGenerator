@@ -65,7 +65,7 @@ To run this project, you need the following installed on your system:
 
 2.  **Enter Details**
     * The terminal will prompt you to enter your **UPI ID**.
-    * *Example:* `joel@oksbi`
+    * *Example:* `ABc@oksbi`
 
 3.  **Get Results**
     * The script will generate three image files in the current folder.
